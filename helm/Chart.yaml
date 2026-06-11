@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-business-risk-models
+description: "BIAN Service Domain: Business Risk Models (Develop pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - develop
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Business Command and Control"
+  bian/asset-type: "Business Risk Model"
+  bian/control-record: "Business Risk Model Development Project"
